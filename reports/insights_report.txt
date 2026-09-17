@@ -1,0 +1,21 @@
+NETFLIX DATA ANALYSIS REPORT
+
+1. Data Cleaning
+- Removed duplicates
+- Filled missing values
+- Standardized columns
+
+2. Content Analysis
+- Movies dominate the platform
+- TV Shows continue growing
+
+3. Country Analysis
+- USA is the leading content producer
+- India contributes significantly
+
+4. Trend Analysis
+- Strong growth after 2015
+- Continuous increase in content production
+
+Conclusion:
+Netflix has expanded rapidly over the last decade with strong contributions from multiple countries and a content library heavily focused on movies.
